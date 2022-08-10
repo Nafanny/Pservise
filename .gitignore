@@ -1,3 +1,3 @@
 /.idea/
-/test/
-parsingservice.iml
+test/
+/parsingservice
