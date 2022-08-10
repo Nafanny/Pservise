@@ -1,3 +1,4 @@
+/test/
+*.iml
 /.idea/
-test/
-/parsingservice
+/target/
