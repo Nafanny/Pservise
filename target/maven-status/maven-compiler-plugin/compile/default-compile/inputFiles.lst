@@ -1,0 +1,17 @@
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\exception\ParseException.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\provider\xml\StaxProvider.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\util\XmlUtils.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\handler\context\Contextable.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\handler\parser\XmlParser.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\handler\context\Context.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\handler\parser\JsonParser.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\protocol\ParseResponse.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\service\impl\ParseServiceImpl.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\handler\SourceType.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\config\SwaggerConfig.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\controller\ParserController.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\protocol\ParseRequest.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\service\ParseService.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\handler\parser\Parseable.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\ParsingServiceApplication.java
+C:\Users\nafan\Downloads\Telegram Desktop\parsingservice\parsingservice\src\main\java\com\project\nafanny\parsingservice\util\StringUtils.java
